@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=whoami;Software+Developer+%7C+Cybersecurity+Enthusiast;Linux+User+%7C+Kali+%2F+Zsh;sudo+make+me+a+sandwich" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=whoami;Software+Developer+%7C+Cybersecurity+Enthusiast;Linux+User+%7C+Kali+%2F+Zsh;sudo+is+my+profile+tuff" alt="Typing SVG" />
 </h1>
 
 ```bash
