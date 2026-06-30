@@ -52,14 +52,17 @@
 
 ---
 
-### `~/projects`
+### `~/connect`
 
 ```bash
 ┌──(user㉿kali)-[~]
-└─$ ls projects/ --pinned
+└─$ cat contact.txt
 ```
 
-> Pin your top 4-6 repos on your profile page (Customize your pins) — they'll show up below this section automatically. Make sure each one has its own README with a clear description, setup steps, and a screenshot or demo if applicable.
+<p align="left">
+  <a href="https://www.upwork.com/freelancers/~018de9421141abd900?mp_source=share"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="mailto:salmansanusi90@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -80,21 +83,6 @@
 
 <p align="center">
   <img src="https://chess-stats.vercel.app/api/?username=svlmvn_exe" alt="chess stats" />
-</p>
-
----
-
-### `~/connect`
-
-```bash
-┌──(user㉿kali)-[~]
-└─$ cat contact.txt
-```
-
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ```bash
