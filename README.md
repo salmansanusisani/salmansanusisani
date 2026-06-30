@@ -11,7 +11,8 @@
 > Software developer with a deep interest in cybersecurity
 > Daily driver: Linux (Kali) — Zsh shell
 > Building tools, breaking things (responsibly), automating everything
-> Currently exploring: [fill in - e.g. network security, CTFs, red teaming]
+> Currently exploring: Machine Learning / AI, Networking, Network Security
+> Side quest: chess.com — come get checkmated
 ```
 
 ---
@@ -31,6 +32,8 @@
   <img src="https://img.shields.io/badge/Bash%2FZsh-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Batch-A4A4A4?style=for-the-badge&logo=windowsterminal&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
 ---
@@ -57,6 +60,27 @@
 ```
 
 > Pin your top 4-6 repos on your profile page (Customize your pins) — they'll show up below this section automatically. Make sure each one has its own README with a clear description, setup steps, and a screenshot or demo if applicable.
+
+---
+
+### `~/chess --challenge`
+
+```bash
+┌──(user㉿kali)-[~]
+└─$ ./challenge_me.sh --platform chess.com
+```
+
+> I take breaks from staring at logs to stare at a chessboard. Send a challenge — I won't go easy on you.
+
+<p align="center">
+  <a href="https://www.chess.com/member/svlmvn_exe">
+    <img src="https://img.shields.io/badge/Chess.com-svlmvn__exe-81B64C?style=for-the-badge&logo=chess.com&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://chess-stats.vercel.app/api/?username=svlmvn_exe" alt="chess stats" />
+</p>
 
 ---
 
